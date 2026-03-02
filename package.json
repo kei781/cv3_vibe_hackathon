@@ -1,0 +1,26 @@
+{
+   "dependencies": {
+      "@google/generative-ai": "^0.24.1",
+      "dotenv": "^17.3.1"
+   },
+   "name": "cv3_vibe_hackathon",
+   "version": "1.0.0",
+   "description": "1. 간단한 기능설명",
+   "main": "app.js",
+   "scripts": {
+      "start": "node app.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/kei781/cv3_vibe_hackathon.git"
+   },
+   "keywords": [],
+   "author": "",
+   "license": "ISC",
+   "type": "module",
+   "bugs": {
+      "url": "https://github.com/kei781/cv3_vibe_hackathon/issues"
+   },
+   "homepage": "https://github.com/kei781/cv3_vibe_hackathon#readme"
+}
